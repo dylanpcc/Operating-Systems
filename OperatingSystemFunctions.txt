@@ -8,3 +8,5 @@ The settings in Windows 10 are fairly straight forward. There are many options t
 are looking for, there is a search bar for your convenience. If you can not find your settings, you can either right click the Windows logo on the bottom left hand side
 or type 'settings' into the search bar just right of the Windows logo. 
 
+On the far right hand side of the task bar you will find the notification panel. This is shown as a small chat box looking icon. Here you will not only find recent notifications, but quick settings as well. You can manage your notifications and chnage settings like network, Night Light, and VPN with fewer clicks and keystrokes than it takes to get to the
+main settings tab in Windows 10.
