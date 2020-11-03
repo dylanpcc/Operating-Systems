@@ -3,3 +3,8 @@ on the very bottom left hand corner of your screen. This is basically how you na
 just to the right you can type in the search bar provided, and find any file or program saved on the device. If you are connected to the internet you can search
 for files and programs online as well. Then you have the apps on your task bar that are either open or ones you have pinned. This can be helpful for multitasking or general
 navigation. On the very right hand side you have your hidden icons and volume, internet connection, language and time. To the very far right you have your notification panel.
+
+The settings in Windows 10 are fairly straight forward. There are many options to choose from, but they all describe what they lead to accurately. If you can not find what you 
+are looking for, there is a search bar for your convenience. If you can not find your settings, you can either right click the Windows logo on the bottom left hand side
+or type 'settings' into the search bar just right of the Windows logo.
+
