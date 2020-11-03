@@ -1,0 +1,5 @@
+The Task Bar in Windows 10 is extremely useful. Depending on how you have your Windows 10 set up, normally you would start with the Windows icon 
+on the very bottom left hand corner of your screen. This is basically how you navigate Windows 10 at the most basic of levels. You can view all system information, while
+just to the right you can type in the search bar provided, and find any file or program saved on the device. If you are connected to the internet you can search
+for files and programs online as well. Then you have the apps on your task bar that are either open or ones you have pinned. This can be helpful for multitasking or general
+navigation. On the very right hand side you have your hidden icons and volume, internet connection, language and time. To the very far right you have your notification panel.
