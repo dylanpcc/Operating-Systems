@@ -6,5 +6,5 @@ navigation. On the very right hand side you have your hidden icons and volume, i
 
 The settings in Windows 10 are fairly straight forward. There are many options to choose from, but they all describe what they lead to accurately. If you can not find what you 
 are looking for, there is a search bar for your convenience. If you can not find your settings, you can either right click the Windows logo on the bottom left hand side
-or type 'settings' into the search bar just right of the Windows logo.
+or type 'settings' into the search bar just right of the Windows logo. 
 
